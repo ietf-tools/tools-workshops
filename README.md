@@ -7,6 +7,6 @@ Currently, these are being coordinated as 2-3 hour online sessions, open to all.
 This repository will hold pointers to the results of [past workshops](past_workshops.md), and proposals for future ones.
 
 ## Proposed workshops
-- [Mail archive interfaces](mail_archive_interfaces.md)
-- [How do we make RFCs and Internet-Drafts available on the Internet](document_publication.md)
-- [Datatracker refactoring ](datatracker_refactoring.md)
+- [Mail archive interfaces](proposals/mail_archive_interfaces.md)
+- [How do we make RFCs and Internet-Drafts available on the Internet](proposals/document_publication.md)
+- [Datatracker refactoring ](proposals/datatracker_refactoring.md)
