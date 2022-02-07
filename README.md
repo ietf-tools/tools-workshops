@@ -4,4 +4,4 @@ The tools team is holding a series of design workshops to help plan future devel
 
 Currently, these are being coordinated as 2-3 hour online sessions, open to all.
 
-This repository will hold pointers to the results of past workshops, and proposals for future ones.
+This repository will hold pointers to the results of [past workshops](past_workshops.md), and proposals for future ones.
