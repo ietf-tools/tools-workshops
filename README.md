@@ -10,3 +10,4 @@ This repository will hold pointers to the results of [past workshops](past_works
 - [Mail archive interfaces](proposals/mail_archive_interfaces.md)
 - [How do we make RFCs and Internet-Drafts available on the Internet](proposals/document_publication.md)
 - [Datatracker refactoring ](proposals/datatracker_refactoring.md)
+- [New strategy for IT infrastructure services](proposals/new-strategy-for-it-infrastructure-services.md)
