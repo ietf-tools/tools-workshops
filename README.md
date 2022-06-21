@@ -22,7 +22,7 @@ This repository will hold pointers to the results of [past workshops](past_works
 
 
 ## Workshop Coordination
-- There will be a workshop coordination call Thu March 3 at 2000 UTC.
+- Notes from Thu March 3 at 2000 UTC.
   - https://notes.ietf.org/notes-ietf-interim-2022-tools-03-tools
   - https://datatracker.ietf.org/meeting/interim-2022-tools-03/session/tools
 
